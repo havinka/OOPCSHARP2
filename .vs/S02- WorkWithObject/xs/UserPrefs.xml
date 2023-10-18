@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C5343FB3-EAEA-4A4A-B9C7-11D3302BDCB8}|Default">
+  <MonoDevelop.Ide.ItemProperties.P01-BookLibrary FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P02-Lake/Program.cs">
+    <Files>
+      <File FileName="P01-BookLibrary/Program.cs" />
+      <File FileName="P01-BookLibrary/Book.cs" />
+      <File FileName="P01-BookLibrary/Library.cs" />
+      <File FileName="P02-Lake/Program.cs" Line="14" Column="35" />
+      <File FileName="P02-Lake/Lake.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S02- WorkWithObject" expanded="True">
+            <Node name="P01-BookLibrary" expanded="True" />
+            <Node name="P02-Lake" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P02-Lake FirstBuild="True" />
+</Properties>
